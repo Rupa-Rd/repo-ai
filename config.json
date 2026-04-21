@@ -1,0 +1,5 @@
+{
+  "ollamaEndpoint": "http://localhost:11434",
+  "embeddingModel": "nomic-embed-text",
+  "chatModel": "qwen2.5-coder:1.5b"
+}
