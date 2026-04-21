@@ -1,0 +1,8 @@
+{
+    "embeddingModel": "Xenova/all-MiniLM-L6-v2",
+    "ollamaEndpoint": "http://localhost:11434",
+    "chatModel": "qwen2.5-coder:1.5b",
+    "databasePath": "./lancedb",
+    "tableName": "repo_vectors",
+    "homeDir": ".repo-ai"
+}

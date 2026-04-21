@@ -1,0 +1,14 @@
+# Exclude local storage
+.repo-ai/*
+vectors/
+lancedb/
+
+# Exclude sensitive environment files
+.env
+*.log
+
+# Exclude testing/dev files
+tests/
+temp/
+package-lock.json
+node_modules/*
