@@ -1,4 +1,3 @@
 node_modules/*
 tests/
 temp/
-package-lock.json
